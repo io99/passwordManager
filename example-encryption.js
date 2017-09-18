@@ -16,7 +16,7 @@ console.log(secretMessage.secretName);
 //
 
 var secretMessage = {
-	name:'Andrew',
+	name:'IO',
 	secretName: '007'
 
  //task, encrypt takes only a string , doesn't know what an object.
